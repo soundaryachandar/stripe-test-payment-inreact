@@ -7,7 +7,7 @@ As a small business owner, I want to process a one-time card payment from a US c
 
 PaymentIntent instructions can be found here: https://stripe.com/docs/payments/accept-a-payment#web-setup
 
-Be sure to update to your own local public/secret key before running locally. 
+Be sure to update to your own local public key in App.js & secret key in server.js before running locally. Also update .env file with the same
 
 ## Install all dependencies
 
