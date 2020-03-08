@@ -7,13 +7,19 @@ As a small business owner, I want to process a one-time card payment from a US c
 
 PaymentIntent instructions can be found here: https://stripe.com/docs/payments/accept-a-payment#web-setup
 
-Be sure to update to your own local public key in App.js & secret key in server.js before running locally. Also update .env file with the same
-
 ## Install all dependencies
 
 ```
 npm install
 ```
+
+## Create the .env file
+
+```
+cp .env.example .env
+```
+Edit the .env file and add the stripe keys to it. Remember to also update the public key in src/App.js
+
 
 ## Start the backend server
 In a terminal, run the command below - 
