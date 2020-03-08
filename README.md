@@ -1,12 +1,22 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-It uses Express JS as the backend to serve the requests from the React frontend client
+It uses Express JS to start a backend server to serve the requests to the React frontend client.
 
-The use-case:
+## Use case
 As a small business owner, I want to process a one-time card payment from a US customer for the purchase of an item that costs $10.99; 
 
-## To run the program ## 
+## Install all dependencies
 
-npm install cors
+```
+npm install
+```
+
+## Start the backend server
+```
 npm run backend 
-npm start
+```
+
+## Start the front end server
+```
+npm run frontend
+```
