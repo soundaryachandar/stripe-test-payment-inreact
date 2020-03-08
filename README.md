@@ -7,6 +7,13 @@ As a small business owner, I want to process a one-time card payment from a US c
 
 PaymentIntent instructions can be found here: https://stripe.com/docs/payments/accept-a-payment#web-setup
 
+## Setup
+
+```
+Clone this repository into a <local folder>;
+cd <local folder>
+```
+
 ## Install all dependencies
 
 ```
