@@ -12,11 +12,14 @@ npm install
 ```
 
 ## Start the backend server
+In a terminal, run the command below - 
 ```
 npm run backend 
 ```
 
 ## Start the front end server
+Open another terminal, and run the command below - 
+
 ```
 npm run frontend
 ```
