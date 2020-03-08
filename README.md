@@ -10,7 +10,8 @@ PaymentIntent instructions can be found here: https://stripe.com/docs/payments/a
 ## Setup
 Clone this repository into a local folder
 ```
-cd <local folder>
+git clone https://github.com/soundaryachandar/stripe-test-payment-inreact.git test-app-sc
+cd test-app-sc
 ```
 
 ## Install all dependencies
